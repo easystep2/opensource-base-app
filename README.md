@@ -1,2 +1,1 @@
-# Project Manufacturing
-
+# Project Easystep2 Open Source Base App
