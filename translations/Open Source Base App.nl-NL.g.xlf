@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl" original="Open Source Base App">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1333206135 - Control 3935168339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>In case of replenishment of this warehouse the replenishment should take place from defined Location Code.</source>
+          <target state="translated">In geval van bevoorrading van dit magazijn moet de bevoorrading plaatsvinden vanuit de gedefinieerde Locatiecode.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2PreferredTransferfromCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1333206135 - Control 3935168339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Preferred Transfer-from Code</source>
+          <target state="translated">Voorkeur voor Transfer-van Code</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2PreferredTransferfromCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1333206135 - Control 324456058 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>In case of replenishment of this warehouse and no SKU's exist, the plannings parameters should be taken from the Item card in case of Lot for Lot.</source>
+          <target state="translated">In geval van aanvulling van dit magazijn en er geen SKU's bestaan, moeten de planningsparameters van de artikelkaart worden genomen in geval van Lot voor Lot.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2UsePlanningParamFromItem - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1333206135 - Control 324456058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Use planning parameters from Item with no SKU.</source>
+          <target state="translated">Gebruik planningsparameters van Artikel zonder SKU.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2UsePlanningParamFromItem - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1333206135 - Control 2082577611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies if the warehouse location is a consignment warehouse or just an external warehouse.</source>
+          <target state="translated">Geeft aan of de vestiging een consignatie vestiging is of alleen een externe vestiging.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2WarehouseType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1333206135 - Control 2082577611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Warehouse Type</source>
+          <target state="translated">Magazijnsoort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2WarehouseType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1333206135 - Control 3957544964 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies the vendor or customer of the warehouse location when consignment warehouse or just an external warehouse.</source>
+          <target state="translated">Specificeert de leverancier of klant van de magazijnlocatie wanneer het een consignatiemagazijn betreft of gewoon een extern magazijn.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2WarehouseTypeNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1333206135 - Control 3957544964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Warehouse Type No.</source>
+          <target state="translated">Magazijnsoortnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ES2LocationCard - Control ES2WarehouseTypeNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4293385379 - Field 1443854323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Preferred Transfer-from Code</source>
+          <target state="translated">Voorkeur voor Transfer-van Code</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ES2Location - Field ES2PreferredTransferFromCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4293385379 - Field 324456058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Use planning parameters from Item with no SKU.</source>
+          <target state="translated">Gebruik planningsparameters van Artikel zonder SKU.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ES2Location - Field ES2UsePlanningParamFromItem - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4293385379 - Field 2082577611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Warehouse Type</source>
+          <target state="translated">Magazijnsoort</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ES2Location - Field ES2WarehouseType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4293385379 - Field 3957544964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Warehouse Type No.</source>
+          <target state="translated">Magazijnsoortnr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ES2Location - Field ES2WarehouseTypeNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2180665430 - EnumValue 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target state="translated">Klant</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ES2WarehouseTypes - EnumValue Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2180665430 - EnumValue 1965869807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External</source>
+          <target state="translated">Extern</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ES2WarehouseTypes - EnumValue External - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2180665430 - EnumValue 2672704373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <target state="translated">Standaard</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ES2WarehouseTypes - EnumValue Standard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2180665430 - EnumValue 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <target state="translated">Leverancier</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ES2WarehouseTypes - EnumValue Vendor - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

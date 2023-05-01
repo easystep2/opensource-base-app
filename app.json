@@ -1,0 +1,29 @@
+{
+  "id": "b90353d5-c394-4c25-b873-d817700d7e53",
+  "name": "Open Source Base App",
+  "publisher": "Easystep2 BV, The Netherlands",
+  "version": "22.0.0.1",
+  "brief": "Base Framework to extend the Item Tracking in D365 Business Central",
+  "description": "Improving and extending your D365 Business Central Item Tracking functionality",
+  "privacyStatement": "https://www.easystep2.nl/en/privacy_verklaring/",
+  "EULA": "https://www.easystep2.nl/en/eula-dynamics365-business-central-extensions/",
+  "help": "https://www.easystep2.nl/en/support/",
+  "url": "https://www.easystep2.nl/en/dynamics-365-business-central/",
+  "logo": "resources/img/open-source-base-app.png",
+  "screenshots": [],
+  "target": "Cloud",
+  "runtime": "11.0",
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "dependencies": [],
+  "supportedLocales": ["nl-NL", "en-US", "de-DE","fr-FR"],
+  "features": ["TranslationFile", "GenerateCaptions"],
+  "resourceExposurePolicy" : {"allowDebugging": true, "allowDownloadingSource": true, "includeSourceInSymbolFile": true},
+  "suppressWarnings": ["AA0072","AA0228"],
+  "idRanges": [
+    {
+      "from": 95100,
+      "to": 95499
+    }
+  ] 
+}
